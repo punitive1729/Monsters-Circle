@@ -1,6 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { Component, useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Cards from "./components/cards/cards.components";
 import SearchBox from "./components/search-box/search-box.component";
 
