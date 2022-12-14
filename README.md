@@ -1,6 +1,7 @@
 # Simple React Project to Learn React
 
-Project Exposure:
+# Project Exposure:\
+
 React\
 Class and Functional Components\
 Hooks\
