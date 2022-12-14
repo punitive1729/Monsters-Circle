@@ -1,5 +1,3 @@
-import { Component } from "react";
-
 const Card = ({ monster }) => {
   const { name, id, email } = monster;
   return (
