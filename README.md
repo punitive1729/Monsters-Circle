@@ -4,7 +4,7 @@ Project Exposure:
 React\
 Class and Functional Components\
 Hooks\
-Rendering and Re-rendering\
+Rendering and Re-rendering
 
 # Getting Started with Create React App
 
