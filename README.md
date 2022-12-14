@@ -1,3 +1,10 @@
+# Simple React Project to Learn React
+
+Project Exposure:
+React
+Class and Functional Components
+Hooks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
