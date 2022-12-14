@@ -1,9 +1,10 @@
 # Simple React Project to Learn React
 
 Project Exposure:
-React
-Class and Functional Components
-Hooks
+React\
+Class and Functional Components\
+Hooks\
+Rendering and Re-rendering\
 
 # Getting Started with Create React App
 
