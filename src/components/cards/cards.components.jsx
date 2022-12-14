@@ -1,11 +1,11 @@
-import Card from "./card.component";
-import "./cards.styles.css";
+import Card from './card.component';
+import './cards.styles.css';
 
 const Cards = ({ monsters }) => {
   return (
-    <div className="card-list">
+    <div className='card-list'>
       {monsters.map((monster) => (
-        <Card monster={monster} />
+        <Card key={monster.id} monster={monster} />
       ))}
     </div>
   );
